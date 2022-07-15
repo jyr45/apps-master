@@ -1,4 +1,4 @@
-apiVersion: v2
+apiVersion: 
 appVersion: "2.22.3"
 dependencies:
 - name: common
